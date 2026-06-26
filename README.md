@@ -25,8 +25,10 @@
 - Daily step count has negligible correlation with both sleep quality and duration
 --- 
 ## Tools used
-- python, pandas, seaborn, matplotlib
+- Python, Pandas, Seaborn, Matplotlib
 
 ---
 ## How to Run
-- *Install dependencies with pip install -r requirements.txt*
+1. Clone the repo
+2. Install dependencies with pip install -r requirements.txt
+3. Open 'notebooks/eda.ipynb' in Jupyter and run cells
